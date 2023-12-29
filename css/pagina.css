@@ -1,0 +1,18 @@
+.navbar-brand {
+    font-family: 'Ephesis';
+}
+
+.carrinho{
+    margin-right: 150px;
+}
+
+.header{
+    display: flex;
+    gap: 40px;
+    border: 1px solid red;
+    margin-right: 100px;
+  
+}
+a{
+    text-decoration: none;
+}

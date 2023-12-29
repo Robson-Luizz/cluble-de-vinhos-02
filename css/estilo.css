@@ -1,0 +1,53 @@
+    body{
+        min-width: 372px;
+        background-color: rgb( 19, 56, 85);
+    }
+    .custom-body-bg {
+        background-color: rgb(19, 56, 85);
+      }
+
+      .text-custom-color{
+        color: rgb(202, 142, 20);
+        font-size: 60px;
+      }
+
+      .footer-custom-color{
+        background-color: rgb(19, 56, 85);
+
+      }
+
+    .navbar-brand {
+        font-family: 'Ephesis';
+        font-size: 100px;
+    }
+
+    img{
+        height: 300px;
+        width: 100px;
+    }
+
+    .dropdown-submenu:hover > .dropdown-menu {
+        display: block;
+    }
+
+    .dropdown-submenu {
+        position: relative;
+    }
+    
+    .dropdown-submenu .dropdown-menu {
+        top: 0;
+        left: 100%;
+        margin-top: -1px;
+    }
+
+    .btn-custom{
+        background-color: rgb(202, 142, 20)!important;
+    
+    }
+
+
+        
+
+    
+
+  
